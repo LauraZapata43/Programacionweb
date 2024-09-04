@@ -1,0 +1,29 @@
+npm instal vite --> para installar recursos
+
+prjReact2: npm create vite@latest demo --> este es para crear la carpeta donde va las configuración para crear la pagina o diseño.
+
+te sale la opción de elegir lo que vas a crear y que lenguaje
+
+react 
+javascript
+
+cd demo
+
+code .
+
+en visual code abrir la terminal ctrl+j
+
+1 paso: npm i o npm instal
+
+2 paso: npm run dev y te sale el host donde abre la pagina q se va crear.
+
+//////////////////////info clase/////////////////////////////
+
+borramos la info de app.jsx lo que esta dentro div
+
+instalamos boostrap para react--> npm install react-bootstrap bootstrap
+
+validamos node_modules que ya este la carpeta
+
+se crea una carpeta Components y despues el archivo en src que dida Carousel.jsx y luego copiamos en el archivo rfse
+
